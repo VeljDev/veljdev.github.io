@@ -51807,7 +51807,7 @@ $0(){A.yY(this.b,"Attention: Location Permissions Required","We're unable to acc
 $S:0}
 A.EA.prototype={
 ac(){var s=t.N
-return new A.a4Q(A.a([A.aI(["title","Biodiversity","url","https://www.bafu.admin.ch/bafu/en/home/topics/biodiversity.html","logoUrl","https://www.bfs.admin.ch/bfs/it/_jcr_content/socialshareimage.imagespooler.png/1681825459478/ch-wappen-1000x1000.png"],s,s),A.aI(["title","Invasive Species Blog","url","https://blog.invasive-species.org/","logoUrl","https://invasionevs.com/wp-content/uploads/2015/08/cabi-logo-300x300.jpg"],s,s),A.aI(["title","Invasive Species","url","https://www.wsl.ch/en/biodiversity/invasive-species/","logoUrl","https://envicloud.os.zhdk.cloud.switch.ch/group/2020-11-04-134216.5237452000px-LogoWSL.svg.png"],s,s)],t.m0),B.j)}}
+return new A.a4Q(A.a([A.aI(["title","Biodiversity","url","https://www.bafu.admin.ch/bafu/en/home/topics/biodiversity.html","logoUrl","https://cors-anywhere.herokuapp.com/https://www.bfs.admin.ch/bfs/it/_jcr_content/socialshareimage.imagespooler.png/1681825459478/ch-wappen-1000x1000.png"],s,s),A.aI(["title","Invasive Species Blog","url","https://blog.invasive-species.org/","logoUrl","https://cors-anywhere.herokuapp.com/https://invasionevs.com/wp-content/uploads/2015/08/cabi-logo-300x300.jpg"],s,s),A.aI(["title","Invasive Species","url","https://www.wsl.ch/en/biodiversity/invasive-species/","logoUrl","https://cors-anywhere.herokuapp.com/https://envicloud.os.zhdk.cloud.switch.ch/group/2020-11-04-134216.5237452000px-LogoWSL.svg.png"],s,s)],t.m0),B.j)}}
 A.a4Q.prototype={
 J(a){var s=null
 return A.kZ(A.lA(s,!0,s,A.b5(A.ad(a,B.k,t.J).gxw(),s,s,s,s,s,s)),A.Rj(new A.aBY(this),3,s,B.aA,!1),s,s)}}
